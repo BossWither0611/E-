@@ -1,0 +1,6 @@
+color 6
+Title E§-Runner
+@echo Running .py file...
+@echo Running file...
+python C:\Users\erens\OneDrive\Dokumente\ProgrammingLanguage\MainPythonFile\ProgrammingLanguage.py
+pause
