@@ -14,7 +14,7 @@ E§ is also being coded with Python and if you want to know how you can code in 
 - Restarted from scratch
 - Maths finished
 - Able to change the file to compile/run
-- Added Integers to declare and change (they currently aren't working in other commands then declaring and changing)
+- Added Integers to declare and change (not working in "System.out.math.print();")
 - New Compiler
 - Improved performance
 - Added Error messages with colored text
