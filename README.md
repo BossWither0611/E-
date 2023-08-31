@@ -18,3 +18,14 @@ E§ is also being coded with Python and if you want to know how you can code in 
 - New Compiler
 - Improved performance
 - Added Error messages with colored text
+
+## Changes in Version 0.2.1
+- Import added
+- STD-Library added
+- Time library added
+- Updated Compiler
+- If statement started
+- @error finally done
+- goto added
+- skipline added
+- Other smaller things added / changed...
